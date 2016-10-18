@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>1x01 - Pups Make a Splash</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/k74bg118k29x/1.15A_Pups_Make_a_Splash.mp4.html</link>
+</item>
+
+<item>
+<title>1x02 - Pups Save the Sea Turtles</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/dg3naclta535/1.03A_Pups_Save_the_Sea_Turtles.mp4.html</link>
+</item>
+
+<item>
+<title>1x03 - Pups and the Kitty-tastrophe</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/eqh5vdz236wh/1.01A_Pups_and_the_Kitty-tastrophe.mp4.html</link>
+</item>
+
+<item>
+<title>1x04 - Pup Pup Boogie/Pups in a Fog</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/qxuhhsx2rgra/Patrulha.PataS01E04.avi.html</link>
+</item>
+
+<item>
+<title>1x05 - Pup Pup Goose</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/v9rd7vvzewna/1.05A_Pup_Pup_Goose.mp4.html</link>
+</item>
+
+<item>
+<title>1x06 - Pups and the Snow Monster/Pups on Ice</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/t17f3aosa297/Patrulha.PataS01E06.avi.html</link>
+</item>
+
+<item>
+<title>1x07 - Pups Save the Circus/Pup a Doodle Do</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/ai2o32ylm58b/Patrulha.PataS01E07.avi.html</link>
+</item>
+
+<item>
+<title>1x08 - Pups Pit Crew/Pups Fight Fire</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/6asdy1vioqsg/Patrulha.PataS01E08.avi.html</link>
+</item>
+
+<item>
+<title>1x09 - Pups Get a Rubble/Pups Save a Walrus</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/9wt0iw3zgszm/Patrulha.PataS01E09.avi.html</link>
+</item>
+
+<item>
+<title>1x10 - Pups Save the Bay/Pups Save a Goodway</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link></link>
+</item>
+
+<item>
+<title>1x11 - Pups Save Christmas</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link></link>
+</item>
+
+<item>
+<title>1x12 - Pups and the Ghost Pirate</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/d5064xxdi2vq/Patrulha.PataS01E12.avi.html</link>
+</item>
+
+<item>
+<title>1x13 - Pups Save the Bunnies/Puptacular</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/6e8a7uv90d0e/Patrulha.PataS01E13.avi.html</link>
+</item>
+
+<item>
+<title>1x14 - Pups Save the Treats/Pups Get a Lift</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/hekgtybtd8pq/Patrulha.PataS01E14.avi.html</link>
+</item>
+
+<item>
+<title>1x15 - Pups Save a Hoedown/Pups Save Alex</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/pscxn9eq02gn/Patrulha.PataS01E15.avi.html</link>
+</item>
+
+<item>
+<title>1x16 - Pups Save a School Day/Pups Turn on the Lights</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/vnxa25twvy19/Patrulha.PataS01E16.avi.html</link>
+</item>
+
+<item>
+<title>1x17 - Pups Save a Pool Day/Circus Pup Formers</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/cnf2st5f3twa/Patrulha.PataS01E17.avi.html</link>
+</item>
+
+<item>
+<title>1x18 - A Pups Save a Super Pup</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/h0vq6djjuda8/1.18A_Pups_Save_a_Super_Pup.mp4.html</link>
+</item>
+
+<item>
+<title>1x19 - Pups Go All Monkey</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/ge7hbcz9s9h4/1.19A_Pups_Go_All_Monkey.mp4.html</link>
+</item>
+
+<item>
+<title>1x20 - Pups Save a Bat/Pups Save a Toof!</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/bgp4uy0ersfa/Patrulha.PataS01E20.avi.html</link>
+</item>
+
+<item>
+<title>1x21 - Pups Save the Easter Egg Hunt</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/a4vjfom0kcay/Patrulha.PataS01E21.avi.html</link>
+</item>
+
+<item>
+<title>1x22 - Pups Save the Camping Trip/Pups Turtle Trouble</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link></link>
+</item>
+
+<item>
+<title>1x23 - A Pups and the Beanstalk</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/ficrfbwt7mss/1.24A_Pups_and_the_Beanstalk.mp4.html</link>
+</item>
+
+<item>
+<title>1x24 - Pups and the Lighthouse Boogie!/Pups Save Ryder</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/99nwt2jriql1/Patrulha.PataS01E24.avi.html</link>
+</item>
+
+<item>
+<title>1x25 - A Pups Great Race</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/n3atwv382fhd/1.23A_Pups_Great_Race.mp4.html</link>
+</item>
+
+<item>
+<title>1x26 - Pups and the Pirate Treasure</title>
+<fanart>https://i.ytimg.com/vi/YtVupQfdsIA/maxresdefault.jpg</fanart>
+<thumbnail>http://cdn6.nflximg.net/ipl/10055/c2c7f3841034917f23b860a11dd0e39310e06161.jpg</thumbnail>
+<link>http://streamcloud.eu/wngua5x5hm9p/1.26_Pups_and_the_Pirate_Treasure.mp4.html</link>
+</item>
