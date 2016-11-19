@@ -2,6 +2,14 @@
 
 <channels>
 
+<channel>  
+<name>[COLOR orange][B] Panda e os Caricas[/B][/COLOR]</name>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/PEOC</externallink>
+<thumbnail>http://canelaehortela.com/wp-content/uploads/2012/10/panda_capa.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</channel>
+
 <channel>
 <name>[COLOR orange]PANDA E OS CARICAS[/COLOR]</name>
 <fanart>http://magazine.ticketline.pt/content/img/panda_tld.jpg</fanart>
@@ -310,14 +318,6 @@
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCKkwJzaMQqSQ06LfUH8xenA/playlist/PLMyDc2C1gQsYQCQCfgIlnwrfVasnn8-My/</jsonrpc>
 </item>
-
-<channel>  
-<name>[COLOR orange][B] Panda e os Caricas[/B][/COLOR]</name>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/PEOC</externallink>
-<thumbnail>http://canelaehortela.com/wp-content/uploads/2012/10/panda_capa.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</channel>
 
 <channel>
 <name>[COLOR orange][B] Dragon Ball [/COLOR][/B]</name>
