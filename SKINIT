@@ -3,7 +3,7 @@
 <channels>
 
 <channel>  
-<name>[COLOR orange][B] Panda e os Caricas[/B][/COLOR]</name>
+<name>[COLOR orange][B]Panda e os Caricas[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/PEOC</externallink>
 <thumbnail>http://canelaehortela.com/wp-content/uploads/2012/10/panda_capa.jpg</thumbnail>
@@ -24,7 +24,7 @@
 </item>
 
 <channel>
-<name>[COLOR orange][B] Tom Sawyer [/COLOR][/B]</name>
+<name>[COLOR orange][B]Tom Sawyer [/COLOR][/B]</name>
 <fanart></fanart>
 <thumbnail>https://cld.pt/dl/download/2e88b3c9-c139-413c-bd70-25cafb1ed288/tom%20saiweer.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -32,15 +32,23 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] Dartacão [/COLOR][/B]</name>
+<name>[COLOR orange][B]Dartacão [/COLOR][/B]</name>
 <fanart></fanart>
 <thumbnail>https://cld.pt/dl/download/dbaf064d-0d1e-49fc-8a6c-34fd27016f4c/dartacao.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/DTC</externallink>
 </channel>
 
+<channel>  
+<name>[COLOR orange][B]Patrulha Pata[/B][/COLOR]</name>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/PP</externallink>
+<thumbnail>http://pawpatrol.com/tour/img/pawpatrol.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</channel>
+
 <channel>
-<name>[COLOR orange][B] JAKE E OS PIRATAS DA TERRA DO NUNCA [/COLOR][/B]</name>
+<name>[COLOR orange][B]JAKE E OS PIRATAS DA TERRA DO NUNCA [/COLOR][/B]</name>
 <fanart>https://cdn.fstatic.com/media/movies/covers/2015/01/jake-and-the-never-land-pirates-season-2_tNone.jpg</fanart>
 <thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -48,7 +56,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] TOM & JERRY [/COLOR][/B]</name>
+<name>[COLOR orange][B]TOM & JERRY [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
 <thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -56,7 +64,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] Heidi [/COLOR][/B]</name>
+<name>[COLOR orange][B]Heidi [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/60e12061-636f-46a6-a611-a4f743ec7fef/HEIDII%202015.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -64,7 +72,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] RUA SESAMO [/COLOR][/B]</name>
+<name>[COLOR orange][B]RUA SESAMO [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
 <thumbnail>http://vignette1.wikia.nocookie.net/muppet/images/d/d9/Rua_Sesamo_sticker_book.JPG/revision/latest?cb=20090204212510</thumbnail>
 <link>http://ignoreme</link>
@@ -72,15 +80,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] Patrulha Pata[/B][/COLOR]</name>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/PP</externallink>
-<thumbnail>http://pawpatrol.com/tour/img/pawpatrol.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</channel>
-
-<channel>  
-<name>[COLOR orange][B] AS AVENTURAS DE TINTIM[/B][/COLOR]</name>
+<name>[COLOR orange][B]AS AVENTURAS DE TINTIM[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/ATIMT</externallink>
 <thumbnail>https://i.ytimg.com/vi/V8mP_sWpi40/maxresdefault.jpg</thumbnail>
@@ -88,7 +88,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] A CASA DO MICKEY[/B][/COLOR]</name>
+<name>[COLOR orange][B]A CASA DO MICKEY[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/CM</externallink>
 <thumbnail>https://static.justwatch.com/poster/489800/s592</thumbnail>
@@ -96,7 +96,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] A LOJA DA MINNIE[/B][/COLOR]</name>
+<name>[COLOR orange][B]A LOJA DA MINNIE[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/LMIN</externallink>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61EI683IrPL.jpg</thumbnail>
@@ -104,7 +104,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] BOMBEIRO SAM[/B][/COLOR]</name>
+<name>[COLOR orange][B]BOMBEIRO SAM[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/BS</externallink>
 <thumbnail>http://play.firemansam.com/en-us/Images/news-feature-01_tcm993-160907.jpg</thumbnail>
@@ -112,7 +112,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] DOUTORA BRINQUEDOS[/B][/COLOR]</name>
+<name>[COLOR orange][B]DOUTORA BRINQUEDOS[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/DB</externallink>
 <thumbnail>http://www.themediafire.net/wp-content/uploads/2014/10/Doutora-Brinquedos-Escola-de-Medicina.jpg</thumbnail>
@@ -120,7 +120,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] AS AVENTURAS DO GATO DE BOTAS [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]AS AVENTURAS DO GATO DE BOTAS [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/AGB</externallink>
 <thumbnail>http://static.wixstatic.com/media/0acd94_389c5038d4344b67a21c2a6137686491.jpg/v1/fill/w_276,h_389,al_c,lg_1,q_80/0acd94_389c5038d4344b67a21c2a6137686491.jp</thumbnail>
@@ -128,7 +128,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] Ruca [/COLOR][/B]</name>
+<name>[COLOR orange][B]Ruca [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/d02f2a15-7122-4f14-b089-c9b9570ea5bc/rucaaaaaa.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/2f2ff7da-9717-4625-ac4e-12f56b5bc1ae/ruca%20varios.jpg</thumbnail>
 <link> </link>
@@ -182,15 +182,7 @@
 </item>
 
 <channel>  
-<name>[COLOR orange][B] As Aventuras do Gato das Botas [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/AS%20AVENTURAS%20DO%20GATO%20DE%20BOTAS</externallink>
-<thumbnail>http://static.wixstatic.com/media/0acd94_389c5038d4344b67a21c2a6137686491.jpg/v1/fill/w_276,h_389,al_c,lg_1,q_80/0acd94_389c5038d4344b67a21c2a6137686491.jpg</thumbnail>
-<fanart>https://art-s.nflximg.net/a86da/5832903efc220dfdc3ee41c548963e4fba7a86da.jpg</fanart>
-</channel>
-
-<channel>  
-<name>[COLOR orange][B] SCOOBY DOO - Os Ho-Ho-Límpicos [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]SCOOBY DOO - Os Ho-Ho-Límpicos [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/SCOOBY%20DOO%20-%20Os%20Ho-Ho-L%C3%ADmpicos</externallink>
 <thumbnail>http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/Scooby_Doo_Os_Ho_ho_l_mpicos_Jogos_Assombrados.jpg</thumbnail>
@@ -198,7 +190,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] Tom & Jerry [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]Tom & Jerry [/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/TOM%20%26%20JERRY</externallink>
 <thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
@@ -206,7 +198,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] As Aventuras de Tintim [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]As Aventuras de Tintim [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/AS%20AVENTURAS%20DE%20TINTIM</externallink>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/12/thumbs/0d185f91d3667cf1d4ddd05df0b5a555_jpg_290x478_upscale_q90.jpg</thumbnail>
@@ -214,7 +206,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] Hora de Aventura [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]Hora de Aventura [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/HDA.m3u</externallink>
 <thumbnail>http://1.bp.blogspot.com/-cEbtUhS2jlc/VYCX77pd-wI/AAAAAAAABZM/AAVaXBluVt8/s400/2015-05-11-1431305536-2499685-horadeaventuralatinoonlinecapitulos.jpg</thumbnail>
@@ -222,7 +214,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] SELVA SOBRE RODAS[/B][/COLOR]</name>
+<name>[COLOR orange][B]SELVA SOBRE RODAS[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/BS</externallink>
 <thumbnail>http://tinyurl.com/h6t4bqu</thumbnail>
@@ -230,7 +222,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] Croods, O Inicio [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
+<name>[COLOR orange][B]Croods, O Inicio [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/OCRO.m3u</externallink>
 <thumbnail>http://br.web.img1.acsta.net/pictures/15/12/22/17/15/570762.jpg</thumbnail>
@@ -238,7 +230,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] Era Uma Vez...O Corpo Humano [/COLOR][/B]</name>
+<name>[COLOR orange][B]Era Uma Vez...O Corpo Humano [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/94dcc5c9-ec91-4e13-bc40-760d3dbd569f/wwwwww.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/cd15f148-cdaa-45e8-8cfe-3fd21f075a5e/Corpo%20humano.jpg</thumbnail>
 <link> </link>
@@ -246,7 +238,7 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange][B] Uma Aventura[/B][/COLOR]</name>
+<name>[COLOR orange][B]Uma Aventura[/B][/COLOR]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Uma%20Aventura</externallink>
 <thumbnail>http://s19.postimg.org/4l0s05e03/Uma_Aventura.jpg</thumbnail>
@@ -267,7 +259,7 @@
 </item>
 
 <channel>
-<name>[COLOR white]Diversas Séries no Youtube[/COLOR]</name>
+<name>[COLOR orange]Diversas Séries no Youtube[/COLOR]</name>
 <fanart>http://i2.wp.com/ladomoderno.com/wp-content/uploads/2015/11/carrinhamagica.jpg?resize=1280%2C720</fanart>
 <thumbnail>http://2.bp.blogspot.com/-t-CQ48WXDTs/VAo9l0wVtQI/AAAAAAAAJSc/iAK7yMVo9TY/s1600/Desenho%2Banimado%2BAna%2Bdos%2BCabelos%2BRuivos.png</thumbnail>
 </subitem>
@@ -280,7 +272,7 @@
 </item>
 
 <channel>
-<name>[COLOR white]AVÔ CANTIGAS [/COLOR]</name>
+<name>[COLOR orange]AVÔ CANTIGAS [/COLOR]</name>
 <fanart>http://mediaserver2.rr.pt/newrr/avocantigas1142eae3_664x373.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/85/13/0b/725893/1507-1.jpg</thumbnail>
 </subitem>
@@ -320,7 +312,7 @@
 </item>
 
 <channel>
-<name>[COLOR orange][B] Dragon Ball [/COLOR][/B]</name>
+<name>[COLOR orange][B]Dragon Ball [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/4df7d78d-1952-4ed1-863f-0e9b5edd79cc/drag.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/2df39b9a-9ef4-4401-a938-15ed4732372f/dragg.jpg</thumbnail>
 <link> </link>
@@ -328,7 +320,7 @@
 </channel>
 
 <channel>
-<name>[COLOR orange][B] Attack on Titan [/COLOR][/B]</name>
+<name>[COLOR orange][B]Attack on Titan [/COLOR][/B]</name>
 <fanart>https://cld.pt/dl/download/4df7d78d-1952-4ed1-863f-0e9b5edd79cc/drag.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</thumbnail>
 <link> </link>
