@@ -7,20 +7,17 @@
 <fanart></fanart>
 <items>
 
+<channel>
+<name>[COLOR orange]PANDA E OS CARICAS[/COLOR]</name>
+<fanart>http://magazine.ticketline.pt/content/img/panda_tld.jpg</fanart>
+<thumbnail>http://www.ouvirmusicas.pt/wp-content/uploads/2016/03/Panda-e-Os-Caricas.jpg</thumbnail>
+</subitem>
 <item>
-<title>[COLOR blue][B][I]Desenhos 24 horas[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/D24H.m3u</externallink>
-<thumbnail>http://1.bp.blogspot.com/-LWVSOv73yFE/Vd3lwudDmnI/AAAAAAAAA3k/7I7oAxf5zJI/s1600/TOON%2BTV%2BLOGO.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
-</item>
-
-<item>
-<title>[COLOR green][B][I]SERIES KIDS 2.0[/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/S20</externallink>
-<fanart>http://www.twistermc.com/blog-u/wp-content/uploads/2012/02/childhood-cartoons.png</fanart>
-<thumbnail>https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png</thumbnail>
+<title>[COLOR white]PANDA E OS CARICAS[/COLOR]</title>
+<fanart>http://magazine.ticketline.pt/content/img/panda_tld.jpg</fanart>
+<thumbnail>http://www.ouvirmusicas.pt/wp-content/uploads/2016/03/Panda-e-Os-Caricas.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCvw-R-r3p6Hc-yj1qyoPslQ/</jsonrpc>
 </item>
 
 <item>
@@ -48,6 +45,22 @@
 </item>
 
 <item>
+<title>[COLOR orange][B] JAKE E OS PIRATAS DA TERRA DO NUNCA [/COLOR][/B]</title>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2015/01/jake-and-the-never-land-pirates-season-2_tNone.jpg</fanart>
+<thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/JPTN</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][B] TOM & JERRY [/COLOR][/B]</title>
+<fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
+<thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/T%26J</externallink>
+</item>
+
+<item>
 <title>[COLOR orange][B] Heidi [/COLOR][/B]</title>
 <fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/60e12061-636f-46a6-a611-a4f743ec7fef/HEIDII%202015.jpg</thumbnail>
@@ -55,6 +68,59 @@
 <externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/HEID</externallink>
 </item>
 
+<item>
+<title>[COLOR orange][B] RUA SESAMO [/COLOR][/B]</title>
+<fanart>https://cld.pt/dl/download/c5718038-9908-40ca-ac5e-627776b8b22b/HEIDI%202015.jpg</fanart>
+<thumbnail>http://vignette1.wikia.nocookie.net/muppet/images/d/d9/Rua_Sesamo_sticker_book.JPG/revision/latest?cb=20090204212510</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/RS</externallink>
+</item>
+
+<channel>
+<name>[COLOR orange]XANA TOC TOC[/COLOR]</name>
+<fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
+<thumbnail>http://moviefiles.alphacoders.com/821/poster-thumb-82103.jpg</thumbnail>
+</subitem>
+<item>
+<title>XANA TOCTOC 1</title>
+<fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
+<thumbnail>http://moviefiles.alphacoders.com/821/poster-thumb-82103.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC7lcxmvx59SLTGXAL2QxwLg/</jsonrpc>
+</item>
+<item>
+<title>XANA TOCTOC 2</title>
+<fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
+<thumbnail>https://a3-images.myspacecdn.com/images02/120/ff4dbf3fb1514daaa4329a0cb08b39af/300x300.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCF8C_W8v0_n6VdCLjmHsOSA/</jsonrpc>
+</item>
+
+<channel>
+<name>[COLOR ORANGE]SÓNIA E AS PROFISSÕES[/COLOR]</name>
+<fanart>http://www.centrocultural.cm-ilhavo.pt/uploads/event/image/806/sonia.jpg</fanart>
+<thumbnail>http://www.coliseumicaelense.pt/pt/wp-content/uploads/2013/06/foto-site-507x600.jpg</thumbnail>
+</subitem>
+<item>
+<title>[COLOR white]SÓNIA E AS PROFISSÕES[/COLOR]</title>
+<fanart>http://www.centrocultural.cm-ilhavo.pt/uploads/event/image/806/sonia.jpg</fanart>
+<thumbnail>http://www.coliseumicaelense.pt/pt/wp-content/uploads/2013/06/foto-site-507x600.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCJZX1clkdpgEeweNmfvfvcQ/</jsonrpc>
+</item>
+
+<channel>
+<name>[COLOR orange]MUSICAS DA CAROCHINHA[/COLOR]</name>
+<fanart>https://i.ytimg.com/vi/lpd1pVajuKU/hqdefault.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/5/5/1/5604931120155.jpg</thumbnail>
+</subitem>
+<item>
+<title>[COLOR white]MÚSICAS DA CAROCHINHA[/COLOR]</title>
+<fanart>https://i.ytimg.com/vi/lpd1pVajuKU/hqdefault.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/5/5/1/5604931120155.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCWLgoi1AS0juKqkEtULijFw/</jsonrpc>
+</item>
 
 <item>  
 <title>[COLOR orange][B] Hora de Aventura [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
@@ -80,7 +146,6 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 
-
 <item>  
 <title>[COLOR orange][B] BOMBEIRO SAM[/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -97,6 +162,13 @@
 <fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
 </item>
 
+<item>  
+<title>[COLOR orange][B] DOUTORA BRINQUEDOS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/DB</externallink>
+<thumbnail>http://www.themediafire.net/wp-content/uploads/2014/10/Doutora-Brinquedos-Escola-de-Medicina.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
 
 <item>  
 <title>[COLOR orange][B] Croods, O Inicio [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
@@ -155,8 +227,71 @@
 <fanart>https://i.ytimg.com/vi/V8mP_sWpi40/maxresdefault.jpg</fanart>
 </item>
 
+<channel>
+<name>[COLOR orange]CONTOS INFANTIS[/COLOR]</name>
+<fanart>http://i.mlcdn.com.br/1500x1500/quebra-cabeca-contos-infantis-progressivo-90-pecasgrow-080240800.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/47/e8/0d/911431/1507-1.jpg</thumbnail>
+</subitem>
+<item>
+<title>CONTOS INFANTIS </title>
+<fanart>http://i.mlcdn.com.br/1500x1500/quebra-cabeca-contos-infantis-progressivo-90-pecasgrow-080240800.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/47/e8/0d/911431/1507-1.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCQwC-OZU_BGrb7E-vEyacrQ/playlist/PLsWbExGo1KPZppsPbR74XPKEhIih0qlBQ/</jsonrpc>
+</item>
+
+<channel>
+<name>[COLOR orange]Diversas Séries no Youtube[/COLOR]</name>
+<fanart>http://i2.wp.com/ladomoderno.com/wp-content/uploads/2015/11/carrinhamagica.jpg?resize=1280%2C720</fanart>
+<thumbnail>http://2.bp.blogspot.com/-t-CQ48WXDTs/VAo9l0wVtQI/AAAAAAAAJSc/iAK7yMVo9TY/s1600/Desenho%2Banimado%2BAna%2Bdos%2BCabelos%2BRuivos.png</thumbnail>
+</subitem>
+<item>
+<title>Séries em PT</title>
+<fanart>http://i2.wp.com/ladomoderno.com/wp-content/uploads/2015/11/carrinhamagica.jpg?resize=1280%2C720</fanart>
+<thumbnail>http://2.bp.blogspot.com/-t-CQ48WXDTs/VAo9l0wVtQI/AAAAAAAAJSc/iAK7yMVo9TY/s1600/Desenho%2Banimado%2BAna%2Bdos%2BCabelos%2BRuivos.png</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCPEjlGlMu14MksUlV_tmdoQ/</jsonrpc>
+</item>
 
 
+<channel>
+<name>[COLOR orange]AVÔ CANTIGAS [/COLOR]</name>
+<fanart>http://mediaserver2.rr.pt/newrr/avocantigas1142eae3_664x373.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/85/13/0b/725893/1507-1.jpg</thumbnail>
+</subitem>
+<item>
+<title>AVÔ CANTIGAS </title>
+<fanart>http://mediaserver2.rr.pt/newrr/avocantigas1142eae3_664x373.jpg</fanart>
+<thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/85/13/0b/725893/1507-1.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCJrw_lwTXZeXezDUhZWRquA/playlist/PLp06OR9E7coDnR09HXBBu7HWT2VrGCq6d/</jsonrpc>
+</item>
+
+<channel>
+<name>[COLOR orange]BABY TV e RUCA[/COLOR]</name>
+<fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
+<thumbnail>http://www.bulhosa.pt/images/products/9789892313399.jpg</thumbnail>
+</subitem>
+<item>
+<title>BABY TV e RUCA</title>
+<fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
+<thumbnail>http://www.bulhosa.pt/images/products/9789892313399.jpg</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCV-By_7ySjgss2k5SVFMPjg/</jsonrpc>
+</item>
+
+<channel>
+<name>[COLOR orange]BABY TV[/COLOR]</name>
+<fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
+<thumbnail>https://www.babytv.com/Uploads/Editor/Images/FirstWords180X180.png</thumbnail>
+</subitem>
+<item>
+<title>BABY TV</title>
+<fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
+<thumbnail>https://www.babytv.com/Uploads/Editor/Images/FirstWords180X180.png</thumbnail>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCKkwJzaMQqSQ06LfUH8xenA/playlist/PLMyDc2C1gQsYQCQCfgIlnwrfVasnn8-My/</jsonrpc>
+</item>
 
 <item>
 <title>[COLOR orange][B] Dragon Ball [/COLOR][/B]</title>
@@ -174,7 +309,21 @@
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Attack%20on%20Titan.m3u</externallink>
 </item>
 
+<item>
+<title>[COLOR blue][B][I]Desenhos 24 horas[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/D24H.m3u</externallink>
+<thumbnail>http://1.bp.blogspot.com/-LWVSOv73yFE/Vd3lwudDmnI/AAAAAAAAA3k/7I7oAxf5zJI/s1600/TOON%2BTV%2BLOGO.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</fanart>
+</item>
 
+<item>
+<title>[COLOR green][B][I]SERIES KIDS 2.0[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/S20</externallink>
+<fanart>http://www.twistermc.com/blog-u/wp-content/uploads/2012/02/childhood-cartoons.png</fanart>
+<thumbnail>https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png</thumbnail>
+</item>
 
 
 
