@@ -1,5 +1,192 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 1[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP1.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 2[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP12.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 3[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP13.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 4[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP14.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 5[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP15.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 6[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP16.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 8[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP18.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 9[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/Patrulha%20Pata%201%20Temporada/PP19.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 12[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP112.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 13[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP113.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 14[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP114.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 15[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP115.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 16-17[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP11617.mkv</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 18-19[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP11819.avi</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 20-21[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP12021.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 22-23[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP12223.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 24-25[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP12425.avi</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 26-27[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP12627.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 28-29[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP12829.avi</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 30-31[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP13031.avi</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 32-33[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP13233.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]T1 Episódio 34-35[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/patrulha%20pata/PP13435.mp4</link>
+<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png</thumbnail>
+<fanart>http://www.qqxxzx.com/images/paw-patrol-wallpaper/paw-patrol-wallpaper-4.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
 <title>1x01 - Pups Make a Splash</title>
