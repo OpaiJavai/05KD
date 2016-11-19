@@ -6,23 +6,14 @@
 <name>[COLOR orange]PANDA E OS CARICAS[/COLOR]</name>
 <fanart>http://magazine.ticketline.pt/content/img/panda_tld.jpg</fanart>
 <thumbnail>http://www.ouvirmusicas.pt/wp-content/uploads/2016/03/Panda-e-Os-Caricas.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>[COLOR white]PANDA E OS CARICAS[/COLOR]</title>
 <fanart>http://magazine.ticketline.pt/content/img/panda_tld.jpg</fanart>
 <thumbnail>http://www.ouvirmusicas.pt/wp-content/uploads/2016/03/Panda-e-Os-Caricas.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCvw-R-r3p6Hc-yj1qyoPslQ/</jsonrpc>
 </item>
-
-
-<channel>
-<name>[COLOR orange][B] Ruca [/COLOR][/B]</name>
-<fanart>https://cld.pt/dl/download/d02f2a15-7122-4f14-b089-c9b9570ea5bc/rucaaaaaa.jpg</fanart>
-<thumbnail>https://cld.pt/dl/download/2f2ff7da-9717-4625-ac4e-12f56b5bc1ae/ruca%20varios.jpg</thumbnail>
-<link> </link>
-<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/RUC</externallink>
-</channel>
 
 <channel>
 <name>[COLOR orange][B] Tom Sawyer [/COLOR][/B]</name>
@@ -129,18 +120,26 @@
 </channel>
 
 <channel>
+<name>[COLOR orange][B] Ruca [/COLOR][/B]</name>
+<fanart>https://cld.pt/dl/download/d02f2a15-7122-4f14-b089-c9b9570ea5bc/rucaaaaaa.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/2f2ff7da-9717-4625-ac4e-12f56b5bc1ae/ruca%20varios.jpg</thumbnail>
+<link> </link>
+<externallink>https://raw.githubusercontent.com/OpaiJavai/05KD/master/RUC</externallink>
+</channel>
+
+<channel>
 <name>[COLOR orange]XANA TOC TOC[/COLOR]</name>
 <fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
 <thumbnail>http://moviefiles.alphacoders.com/821/poster-thumb-82103.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>XANA TOCTOC 1</title>
 <fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
 <thumbnail>http://moviefiles.alphacoders.com/821/poster-thumb-82103.jpg</thumbnail>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UC7lcxmvx59SLTGXAL2QxwLg/</jsonrpc>
-</channel>
-<channel>
+</item>
+<item>
 <title>XANA TOCTOC 2</title>
 <fanart>https://i.ytimg.com/vi/Uz2tGfEHG1Q/maxresdefault.jpg</fanart>
 <thumbnail>https://a3-images.myspacecdn.com/images02/120/ff4dbf3fb1514daaa4329a0cb08b39af/300x300.jpg</thumbnail>
@@ -149,11 +148,11 @@
 </item>
 
 <channel>
-<name>[COLOR ORANGE]SÓNIA E AS PROFISSÕES[/COLOR]</name>
+<name>[COLOR orange]SÓNIA E AS PROFISSÕES[/COLOR]</name>
 <fanart>http://www.centrocultural.cm-ilhavo.pt/uploads/event/image/806/sonia.jpg</fanart>
 <thumbnail>http://www.coliseumicaelense.pt/pt/wp-content/uploads/2013/06/foto-site-507x600.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>[COLOR white]SÓNIA E AS PROFISSÕES[/COLOR]</title>
 <fanart>http://www.centrocultural.cm-ilhavo.pt/uploads/event/image/806/sonia.jpg</fanart>
 <thumbnail>http://www.coliseumicaelense.pt/pt/wp-content/uploads/2013/06/foto-site-507x600.jpg</thumbnail>
@@ -165,8 +164,8 @@
 <name>[COLOR orange]MUSICAS DA CAROCHINHA[/COLOR]</name>
 <fanart>https://i.ytimg.com/vi/lpd1pVajuKU/hqdefault.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/5/5/1/5604931120155.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>[COLOR white]MÚSICAS DA CAROCHINHA[/COLOR]</title>
 <fanart>https://i.ytimg.com/vi/lpd1pVajuKU/hqdefault.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/5/5/1/5604931120155.jpg</thumbnail>
@@ -250,8 +249,8 @@
 <name>[COLOR orange]CONTOS INFANTIS[/COLOR]</name>
 <fanart>http://i.mlcdn.com.br/1500x1500/quebra-cabeca-contos-infantis-progressivo-90-pecasgrow-080240800.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/47/e8/0d/911431/1507-1.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>CONTOS INFANTIS </title>
 <fanart>http://i.mlcdn.com.br/1500x1500/quebra-cabeca-contos-infantis-progressivo-90-pecasgrow-080240800.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/47/e8/0d/911431/1507-1.jpg</thumbnail>
@@ -260,11 +259,11 @@
 </item>
 
 <channel>
-<name>[COLOR orange]Diversas Séries no Youtube[/COLOR]</name>
+<name>[COLOR white]Diversas Séries no Youtube[/COLOR]</name>
 <fanart>http://i2.wp.com/ladomoderno.com/wp-content/uploads/2015/11/carrinhamagica.jpg?resize=1280%2C720</fanart>
 <thumbnail>http://2.bp.blogspot.com/-t-CQ48WXDTs/VAo9l0wVtQI/AAAAAAAAJSc/iAK7yMVo9TY/s1600/Desenho%2Banimado%2BAna%2Bdos%2BCabelos%2BRuivos.png</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>Séries em PT</title>
 <fanart>http://i2.wp.com/ladomoderno.com/wp-content/uploads/2015/11/carrinhamagica.jpg?resize=1280%2C720</fanart>
 <thumbnail>http://2.bp.blogspot.com/-t-CQ48WXDTs/VAo9l0wVtQI/AAAAAAAAJSc/iAK7yMVo9TY/s1600/Desenho%2Banimado%2BAna%2Bdos%2BCabelos%2BRuivos.png</thumbnail>
@@ -273,11 +272,11 @@
 </item>
 
 <channel>
-<name>[COLOR orange]AVÔ CANTIGAS [/COLOR]</name>
+<name>[COLOR white]AVÔ CANTIGAS [/COLOR]</name>
 <fanart>http://mediaserver2.rr.pt/newrr/avocantigas1142eae3_664x373.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/85/13/0b/725893/1507-1.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>AVÔ CANTIGAS </title>
 <fanart>http://mediaserver2.rr.pt/newrr/avocantigas1142eae3_664x373.jpg</fanart>
 <thumbnail>http://static.fnac-static.com/multimedia/Images/PT/NR/85/13/0b/725893/1507-1.jpg</thumbnail>
@@ -289,8 +288,8 @@
 <name>[COLOR orange]BABY TV e RUCA[/COLOR]</name>
 <fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
 <thumbnail>http://www.bulhosa.pt/images/products/9789892313399.jpg</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>BABY TV e RUCA</title>
 <fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
 <thumbnail>http://www.bulhosa.pt/images/products/9789892313399.jpg</thumbnail>
@@ -298,12 +297,13 @@
 <jsonrpc>plugin://plugin.video.youtube/channel/UCV-By_7ySjgss2k5SVFMPjg/</jsonrpc>
 </item>
 
+
 <channel>
 <name>[COLOR orange]BABY TV[/COLOR]</name>
 <fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
 <thumbnail>https://www.babytv.com/Uploads/Editor/Images/FirstWords180X180.png</thumbnail>
-</subchannel>
-<channel>
+</subitem>
+<item>
 <title>BABY TV</title>
 <fanart>http://a204.phobos.apple.com/us/r30/Purple4/v4/28/33/27/2833275b-df50-66e5-8734-81c1a9853b23/mzl.diaccdea.png</fanart>
 <thumbnail>https://www.babytv.com/Uploads/Editor/Images/FirstWords180X180.png</thumbnail>
