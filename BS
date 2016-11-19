@@ -1,0 +1,78 @@
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Brincadeiras[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Brincadeiras.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Cuidado Com o Vidro[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Cuidado%20com%20o%20vidro.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]O Bombeiro Atleta[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20O%20bombeiro%20atleta.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]O Tesouro[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20O%20tesouro.avi</link>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]O Rapaz de Vénus[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Rapaz%20de%20venus.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Rica e Famosa[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Rica%20e%20famosa.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Tal Como em Roma[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Tal%20como%20em%20roma.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Vizinhos Cuidado[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Vizinhos%20cuidado.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]Voltas do Destino[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam%20-%20Voltas%20do%20destino.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]A Aboborinha da Mamã[/COLOR][/B]</title>
+<link>http://psycho.pe.hu/Kids%20s%C3%A9ries/bombeiro%20sam/Bombeiro%20Sam.-%20A%20aboborinha%20da%20mama.avi</link>
+<info></info>
+<thumbnail>http://www.copywritedesigns.co.uk/images/firemansam2-u9273-r.png</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/firemansam/images/d/dd/Mobile_comand_unit_interior.png/revision/latest?cb=20150511135042</fanart>
+</item>
